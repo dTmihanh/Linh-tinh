@@ -16,6 +16,7 @@ Bộ tài liệu hoàn chỉnh theo kế hoạch xây dựng **Quy định chứ
 | [01-Quyet-dinh-ban-hanh.md](01-Quyet-dinh-ban-hanh.md) | Dự thảo Quyết định ban hành Quy định |
 | [02-Quy-dinh-Phap-che.md](02-Quy-dinh-Phap-che.md) | Quy định đầy đủ (7 Chương, 32 Điều) và 3 Phụ lục |
 | [03-Khung-Chuong-Dieu.md](03-Khung-Chuong-Dieu.md) | Bảng khung Chương–Điều để đối chiếu nhanh |
+| [KE-HOACH-Quy-che-Tuan-thu.md](KE-HOACH-Quy-che-Tuan-thu.md) | Kế hoạch / khung Quy chế Tuân thủ (đang chờ góp ý) |
 
 ## Cấu trúc Quy định
 
