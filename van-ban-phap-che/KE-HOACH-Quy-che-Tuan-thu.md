@@ -164,8 +164,8 @@ flowchart TD
 
 ---
 
-## Việc đang chờ đơn vị
+## Trạng thái triển khai
 
-- Rà soát khung 7 Chương / 32 Điều / 5 Phụ lục (phiên bản đã điều chỉnh theo bối cảnh TNHH MTV – Tổng cục CNQP/BQP; **không có KTNB/Thanh tra nội bộ**).
-- Góp ý bổ sung, sửa đổi, đổi tên Điều (nếu có).
-- Sau khi chốt: yêu cầu soạn toàn văn.
+- [x] Chốt bối cảnh đơn vị (TNHH MTV – Tổng cục CNQP/BQP; không có KTNB/Thanh tra nội bộ).
+- [x] Chốt khung 7 Chương / 32 Điều / 5 Phụ lục; Điều 13 giữ mức lĩnh vực (không liệt kê chi tiết từng luật).
+- [x] Soạn toàn văn: xem thư mục [`van-ban-tuan-thu/`](../van-ban-tuan-thu/).
