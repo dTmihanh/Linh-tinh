@@ -6,11 +6,9 @@
 
 **1. Có nhiều doanh nhân nổi tiếng trên thế giới không qua học đại học. Quan niệm của anh/chị về vai trò của học tập đối với sự thành đạt của mỗi người?**
 
-Tôi cho rằng cần tách bạch hai khái niệm: “học” và “học đại học”. Học là hoạt động phổ quát, diễn ra suốt đời, nhằm tích lũy kiến thức, kỹ năng và kinh nghiệm. Còn theo học tại đại học chỉ là một hình thức trong nhiều con đường học tập khác như tự học, học từ người đi trước, học qua thực tiễn và học từ chính những biến cố trong cuộc sống, công việc.
+Tôi cho rằng cần tách bạch “học” và “học đại học”. Học là hoạt động phổ quát nhằm tích lũy kiến thức, kỹ năng và kinh nghiệm; còn theo học tại đại học chỉ là một hình thức trong nhiều con đường khác như tự học, học từ người đi trước, học qua thực tiễn và học từ biến cố cuộc sống, công việc.
 
-Do đó, sự thành công của một số doanh nhân dù không qua đại học không phải minh chứng cho việc “bỏ học thì thành đạt”, mà là minh chứng cho việc họ đã học rất nhiều bằng các hình thức khác. Thành công không tự đến vì họ không ngồi trên ghế nhà trường; ngược lại, hơn ai hết, chính họ hiểu rằng thành công chỉ đến từ nỗ lực tự thân và khả năng học liên tục.
-
-Từ góc nhìn đó, tôi khẳng định học tập đóng vai trò then chốt đối với sự thành đạt: giúp mở rộng tư duy, giảm sai lầm không cần thiết nhờ bài học của người đi trước, và biến trải nghiệm rời rạc thành năng lực có hệ thống. Việc đăng ký Executive MBA của tôi cũng xuất phát từ quan niệm này — học không dừng ở bằng cấp, mà là quá trình nâng tầm năng lực để phụng sự tổ chức và cộng đồng tốt hơn.
+Do đó, sự thành công của một số doanh nhân dù không qua đại học không phải minh chứng cho việc “bỏ học thì thành đạt”, mà cho thấy họ đã học rất nhiều bằng hình thức khác. Thành công không tự đến vì họ không ngồi trên ghế nhà trường; hơn ai hết, chính họ hiểu rằng thành công chỉ đến từ nỗ lực tự thân và khả năng học liên tục. Học tập vì vậy đóng vai trò then chốt với sự thành đạt: mở rộng tư duy, rút ngắn đường đi nhờ bài học của người trước, và biến trải nghiệm thành năng lực có hệ thống. Việc đăng ký Executive MBA của tôi cũng xuất phát từ quan niệm này.
 
 **2. Lý do anh/chị lựa chọn đăng ký dự tuyển Chương trình Thạc sĩ Điều hành cao cấp của Đại học Kinh tế Quốc dân mà không chọn các chương trình khác?**
 
@@ -68,9 +66,9 @@ Tôi đóng góp theo hướng vừa học vừa chia sẻ: tham gia đầy đ�
 
 **8. Nếu người lãnh đạo cấp trên không hoàn toàn đồng tình với quyết định quản lý của mình thì anh/chị xử lý thế nào? (kèm dẫn chứng)**
 
-Tôi không đối đầu cảm tính mà xử lý theo các bước: chủ động xin ý kiến về điểm còn băn khoăn; nghiên cứu, bổ sung căn cứ và xây dựng phương án toàn diện hơn; chân thành báo cáo lại. Nếu lãnh đạo vẫn chưa đồng thuận, tôi cân nhắc rủi ro. Rủi ro lớn, ảnh hưởng hệ thống thì tuân thủ chỉ đạo người đứng đầu. Rủi ro trong phạm vi cá nhân có thể chịu trách nhiệm, không phương hại toàn thể và mang lại lợi ích tập thể thì mạnh dạn triển khai có kiểm soát — vì tôi tin lãnh đạo minh quân nhìn cả quá trình và động cơ phụng sự, không chỉ kết quả tức thời.
+Tôi không đối đầu cảm tính mà xử lý theo các bước: xin ý kiến cụ thể về điểm còn băn khoăn; nghiên cứu, bổ sung căn cứ và hoàn thiện phương án; chân thành báo cáo lại. Nếu lãnh đạo vẫn chưa đồng thuận, tôi cân nhắc rủi ro: rủi ro lớn, ảnh hưởng hệ thống thì tuân thủ chỉ đạo người đứng đầu; rủi ro trong phạm vi cá nhân có thể chịu trách nhiệm, không phương hại toàn thể và mang lại lợi ích tập thể thì mạnh dạn triển khai có kiểm soát. Tôi tin lãnh đạo minh quân nhìn cả quá trình và động cơ phụng sự, không chỉ kết quả tức thời.
 
-*Dẫn chứng:* Khi đề xuất triển khai CRM, ban đầu nhiều ý kiến chưa ủng hộ vì tôi còn trẻ, không đúng chuyên môn đào tạo, thiếu “bằng chứng niềm tin” về năng lực xây dựng mô hình quản trị số. Tôi lắng nghe lo ngại, hoàn thiện phương án và báo cáo lại; được một đồng chí Phó Giám đốc ủng hộ. Sau khoảng 8 tháng, dự án triển khai toàn diện và mở rộng đến khách hàng/đối tác. Tôn trọng cấp trên không đồng nghĩa bỏ cuộc sớm, mà là kiên trì thuyết phục bằng trách nhiệm và kết quả.
+*Dẫn chứng:* Khi đề xuất CRM, nhiều ý kiến chưa ủng hộ vì tôi còn trẻ, không đúng chuyên môn đào tạo. Tôi lắng nghe, hoàn thiện phương án và báo cáo lại; được một đồng chí Phó Giám đốc ủng hộ. Sau khoảng 8 tháng, dự án triển khai toàn diện và mở rộng đến khách hàng/đối tác. Tôn trọng cấp trên không đồng nghĩa bỏ cuộc sớm, mà là kiên trì thuyết phục bằng trách nhiệm và kết quả.
 
 **9. Nếu nhân viên dưới quyền không đồng tình với quyết định quản lý của mình thì anh/chị xử lý thế nào? (kèm dẫn chứng)**
 
@@ -119,9 +117,7 @@ Cần uy nghiêm, mạnh mẽ, quyết đoán như sư tử để bảo vệ t�
 
 **14. Có ký ức tuổi thơ nào đã từng là động lực thôi thúc khát vọng phấn đấu của anh/chị?**
 
-Gia cảnh nhà tôi không phải lúc nào cũng thiếu thốn thường nhật, nhưng tôi đã chứng kiến những mảnh đời éo le và trực tiếp trải biến cố định hình khát vọng sống. Cột mốc sâu sắc là giai đoạn ba tôi mắc ung thư dạ dày: gia đình phải bán gia sản, vay nợ để chạy chữa. Khi ấy tôi vừa thấy sự mong manh của cuộc sống, vừa chứng kiến tình người — luôn có người xuất hiện đúng lúc cứu giúp; chính gia đình tôi cũng nhận hỗ trợ từ người thân, bạn bè.
-
-Hoàn cảnh đó tác động theo hai hướng: một mặt thôi thúc tôi phấn đấu để tự vững vàng hơn trước sóng gió; mặt khác gieo mục tiêu dài hạn — trở thành người dang tay giúp hoàn cảnh khó khăn, báo đáp ân nghĩa đã nhận theo tinh thần luân hồi và đạo làm người. Vì vậy, khát vọng của tôi không chỉ là thành đạt cá nhân, mà còn là tích lũy đủ năng lực và nhân cách để sống có ích, trả ơn đời bằng hành động cụ thể.
+Gia cảnh nhà tôi không phải lúc nào cũng thiếu thốn, nhưng tôi đã chứng kiến những mảnh đời éo le và trực tiếp trải biến cố định hình khát vọng sống. Cột mốc sâu sắc là giai đoạn ba tôi mắc ung thư dạ dày: gia đình phải bán gia sản, vay nợ chạy chữa. Khi ấy tôi vừa thấy sự mong manh của cuộc sống, vừa chứng kiến tình người — luôn có người xuất hiện đúng lúc cứu giúp; chính gia đình tôi cũng nhận hỗ trợ từ người thân, bạn bè. Hoàn cảnh đó vừa thôi thúc tôi phấn đấu để tự vững vàng hơn, vừa gieo mục tiêu dài hạn: trở thành người dang tay giúp hoàn cảnh khó khăn, báo đáp ân nghĩa đã nhận theo tinh thần luân hồi và đạo làm người. Khát vọng của tôi vì thế không chỉ là thành đạt cá nhân, mà còn là sống có ích và trả ơn đời bằng hành động cụ thể.
 
 **15. Giới thiệu tóm tắt 3 người trong gia đình có ảnh hưởng nhiều nhất đến anh/chị?**
 
