@@ -14,13 +14,13 @@ Từ góc nhìn đó, tôi khẳng định học tập đóng vai trò then ch�
 
 **2. Lý do anh/chị lựa chọn đăng ký dự tuyển Chương trình Thạc sĩ Điều hành cao cấp của Đại học Kinh tế Quốc dân mà không chọn các chương trình khác?**
 
-Tôi lựa chọn EMBA của Đại học Kinh tế Quốc dân vì sự phù hợp giữa định hướng nghề nghiệp và đặc thù chương trình, thể hiện ở ba lý do.
+Tôi lựa chọn EMBA của Đại học Kinh tế Quốc dân vì sự phù hợp giữa định hướng nghề nghiệp và đặc thù chương trình.
 
-*Thứ nhất, uy tín học thuật và giá trị bằng cấp.* NEU là cơ sở đầu ngành về kinh tế, quản lý và quản trị kinh doanh; đồng thời là đơn vị trong nước đầu tiên được Bộ GD&ĐT cấp phép triển khai Executive MBA. Tôi không chỉ cần chứng chỉ bổ sung kiến thức, mà cần nền tảng đủ chuẩn để nâng tầm từ chuyên môn pháp chế sang tư duy điều hành tổng thể.
+*Thứ nhất, uy tín học thuật.* NEU là cơ sở đầu ngành về kinh tế – quản lý – quản trị kinh doanh và đơn vị trong nước đầu tiên được Bộ GD&ĐT cấp phép triển khai Executive MBA. Tôi cần nền tảng đủ chuẩn để nâng tầm từ chuyên môn pháp chế sang tư duy điều hành tổng thể.
 
-*Thứ hai, tính ứng dụng và chất lượng cộng đồng học viên.* Chương trình kết hợp lý thuyết với thực hành qua thảo luận nhóm, tọa đàm chuyên gia, giải quyết bài toán quản trị thực tiễn và kết nối lãnh đạo doanh nghiệp, cơ quan, tổ chức. Ở độ tuổi còn trẻ, tôi ý thức rõ hạn chế về bề dày điều hành; vì vậy tôi cần môi trường học từ những người đang trực tiếp điều hành hơn các chương trình hàn lâm thuần túy hoặc khóa ngắn hạn thiếu chiều sâu.
+*Thứ hai, tính ứng dụng và cộng đồng học viên.* Chương trình kết hợp lý thuyết – thực hành, tọa đàm chuyên gia, giải quyết bài toán quản trị thực tiễn và kết nối lãnh đạo doanh nghiệp, cơ quan, tổ chức. Ở độ tuổi còn trẻ, tôi cần học từ người đang trực tiếp điều hành hơn chương trình hàn lâm thuần túy hay khóa ngắn hạn thiếu chiều sâu.
 
-*Thứ ba, sự phù hợp với điều kiện công tác và bối cảnh Việt Nam.* Lịch học linh hoạt (cuối tuần/kết hợp trực tuyến) giúp tôi vừa công tác vừa học nghiêm túc; nội dung bằng tiếng Việt nhưng tiếp cận chuẩn quốc tế, phù hợp thực tiễn trong nước. Với nền tảng pháp luật, đạo đức kinh doanh và trải nghiệm chuyển đổi số trong vận hành, tôi tin EMBA NEU giúp hệ thống hóa kiến thức, mở rộng tư duy chiến lược và xây dựng mạng lưới đồng hành dài hạn — điều khó có được nếu chỉ chọn MBA kỹ thuật một mảng hoặc chương trình nước ngoài ít gắn bối cảnh Việt Nam.
+*Thứ ba, phù hợp điều kiện công tác và bối cảnh Việt Nam.* Lịch học linh hoạt (cuối tuần/kết hợp trực tuyến); nội dung bằng tiếng Việt nhưng tiếp cận chuẩn quốc tế. Với nền tảng pháp luật, đạo đức kinh doanh và trải nghiệm chuyển đổi số, tôi tin EMBA NEU giúp hệ thống hóa kiến thức, mở rộng tư duy chiến lược và xây dựng mạng lưới đồng hành dài hạn.
 
 **3. Nêu tối đa 3 lợi thế giúp anh/chị có thể theo học tốt chương trình này?**
 
@@ -43,7 +43,7 @@ Tôi lựa chọn EMBA của Đại học Kinh tế Quốc dân vì sự phù h�
 
 **5. Nếu trúng tuyển, anh/chị có thể làm gì góp phần thành công của khóa học?**
 
-Tôi đóng góp theo hướng vừa học vừa chia sẻ. Trước hết, cam kết tham gia đầy đủ, chuẩn bị bài chu đáo và chủ động trong thảo luận nhóm, case study, chuyên đề thực tế cũng như hoạt động kết nối của khóa học. Đồng thời, tôi sẽ phát huy thế mạnh pháp chế – tuân thủ và trải nghiệm chuyển đổi số để chia sẻ góc nhìn thực tiễn về số hóa quy trình quản trị, kinh doanh; sẵn sàng hỗ trợ lớp ở các nội dung quản trị rủi ro pháp lý và thiết kế quy trình số. Mục tiêu không chỉ là hoàn thiện bản thân, mà còn góp phần tạo không khí học tập cởi mở, đa chiều giữa các thế hệ và chuyên môn khác nhau.
+Tôi đóng góp theo hướng vừa học vừa chia sẻ: tham gia đầy đủ, chuẩn bị bài chu đáo, chủ động trong thảo luận nhóm, case study và hoạt động kết nối; phát huy thế mạnh pháp chế – tuân thủ và trải nghiệm chuyển đổi số để chia sẻ góc nhìn thực tiễn về số hóa quy trình quản trị, kinh doanh; sẵn sàng hỗ trợ lớp ở nội dung quản trị rủi ro pháp lý và thiết kế quy trình số. Mục tiêu là vừa hoàn thiện bản thân, vừa góp phần tạo không khí học tập cởi mở, đa chiều.
 
 ## C. KINH NGHIỆM CÔNG TÁC VÀ LÃNH ĐẠO
 
@@ -115,7 +115,7 @@ Cần uy nghiêm, mạnh mẽ, quyết đoán như sư tử để bảo vệ t�
 
 **(3) Tự học và triển khai đa lĩnh vực.** Dù không được đào tạo chuyên sâu về công nghệ hay quản trị số, tôi vẫn tự nghiên cứu, phối hợp các bên và đưa giải pháp vào thực tế; giúp thích ứng nhanh, không bị giới hạn bởi khuôn khổ chuyên môn ban đầu.
 
-**(4) Kỷ luật và tinh thần chịu trách nhiệm cao.** Ảnh hưởng từ môi trường pháp luật và truyền thống gia đình gắn lực lượng vũ trang giúp tôi bền bỉ theo đuổi mục tiêu dài hơi — điều kiện cần để vừa hoàn thành công tác vừa theo học Executive MBA nghiêm túc.
+**(4) Kỷ luật và chịu trách nhiệm cao.** Ảnh hưởng từ môi trường pháp luật và truyền thống gia đình gắn lực lượng vũ trang giúp tôi bền bỉ theo đuổi mục tiêu dài hơi, đủ sức vừa công tác vừa học Executive MBA nghiêm túc.
 
 **14. Có ký ức tuổi thơ nào đã từng là động lực thôi thúc khát vọng phấn đấu của anh/chị?**
 
