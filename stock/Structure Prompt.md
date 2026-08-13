@@ -28,8 +28,10 @@ Every daily report must follow this section order:
 ### 0. Header
 - Report title: `Báo cáo tài chính ngày YYYY-MM-DD`
 - Data freshness: date/time of latest sources used (timezone: Asia/Ho_Chi_Minh)
+- **Session reference (bắt buộc):** rõ phiên dữ liệu đang dùng (vd. VN đóng cửa T-1, Mỹ overnight T-1, VN intraday hôm nay)
 - Market session context: open / mid / close / overnight (world vs VN)
 - One-line **market mood**: Risk-on / Risk-off / Mixed / Neutral
+- **Morning anchors (3 số bắt buộc trước khi viết ý tưởng):** VN-Index (hoặc điểm tham chiếu mới nhất), USD/VND bán ngân hàng, BTC spot
 
 ### 1. Executive Snapshot (đọc trong 60 giây)
 - 5–8 bullet points covering the most important moves across Finance / Stock / Forex / Crypto
@@ -62,6 +64,11 @@ Every daily report must follow this section order:
 - Market breadth (advance/decline feel), liquidity/volume tone
 - Hot sectors / themes (banks, real estate, securities, energy, industrials, etc.)
 - Notable tickers moving with short reason
+
+#### 3.2b Foreign flows (VN) — tách riêng
+- Net buy/sell value (HoSE / HNX if available)
+- Top bought / top sold tickers
+- Interpretation: 1-day noise vs multi-day trend
 
 #### 3.3 Impact & linkage
 - How global equity/risk moves feed into VN stocks (foreign flows, USD, commodities, rates)
@@ -136,17 +143,24 @@ Date: YYYY-MM-DD
 Timezone: Asia/Ho_Chi_Minh
 Language: Vietnamese
 Depth: detailed but easy to understand (scan-friendly headings + short paragraphs + bullets)
+Session reference: [e.g., VN close 2026-08-12 + US close 2026-08-12 / VN intraday morning]
+
+Morning anchors (fill before drafting ideas):
+- VN-Index: …
+- USD/VND (bank sell): …
+- BTC spot: …
 
 Requirements:
-1) Cover all sections in order: Header → Executive Snapshot → Financial → Stock → Forex → Crypto → Calendar → Action Checklist → Sources → Disclaimer.
+1) Cover all sections in order: Header → Executive Snapshot → Financial → Stock (incl. Foreign flows VN) → Forex → Crypto → Calendar → Action Checklist → Sources → Disclaimer.
 2) For Financial and Stock: always include World + Vietnam + how news affects current market/financial status.
-3) For Stock: include watchlist / accumulate-on-dip / caution ideas with thesis, catalyst, risk, and time horizon. Also provision the ongoing market (trend bias, key levels/flows if available).
+3) For Stock: include watchlist / accumulate-on-dip / caution ideas with thesis, catalyst, risk, and time horizon. Also provision the ongoing market (trend bias, key levels/flows if available). Always include a separate Foreign flows (VN) subsection.
 4) For Forex: majors + USD/VND practical implications.
 5) For Crypto: majors first, then selective ideas with clear risk notes; include VN angle only if relevant.
 6) Use the most up-to-date information available. Prefer primary/reputable sources. If data is delayed or unavailable, say so explicitly instead of guessing.
 7) Explain jargon briefly in plain language.
 8) Keep a neutral tone. Separate facts from interpretation. Label scenarios as Base / Upside / Downside where useful.
 9) End with Sources & Confidence and the standard Disclaimer.
+10) State clearly which session each major datapoint comes from to avoid mixing T-1 close with same-day intraday.
 
 Optional focus for today (fill if needed):
 - Portfolio / sectors I care about: [e.g., VN banks, real estate, Nvidia, gold, BTC]
@@ -203,6 +217,7 @@ When we improve this prompt over time:
 | Date | Change | Reason |
 |------|--------|--------|
 | 2026-08-13 | Initial structure + daily prompt created | First version for daily World + Vietnam Financial / Stock / Forex / Crypto briefing |
+| 2026-08-13 | Add session reference, 3 morning anchors, Foreign flows (VN) subsection | Learned from first live report: morning briefs mix T-1/US overnight easily; foreign flow is a key decision signal |
 
 ---
 
