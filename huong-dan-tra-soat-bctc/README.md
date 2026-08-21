@@ -24,6 +24,9 @@ Dùng làm **cốt lõi thẩm định**: mỗi khoản mục BCTC được phâ
 | [04-Thuyet-minh-BCTC.md](./04-Thuyet-minh-BCTC.md) | Mẫu B09-DN – thuyết minh bắt buộc & rủi ro ẩn |
 | [05-Bang-danh-gia-trong-yeu.md](./05-Bang-danh-gia-trong-yeu.md) | Ma trận tích lũy sai sót, quyết định ý kiến, checklist |
 | [06-Checklist-theo-ma-so.md](./06-Checklist-theo-ma-so.md) | Checklist hiện trường theo từng mã số B01/B02/B03/B09 |
+| [07-Bang-tong-hop-README.md](./07-Bang-tong-hop-README.md) | **Bảng tổng hợp** theo đúng các cột thẩm định (mục lục) |
+| [07a–07d](./07-Bang-tong-hop-README.md) | Bảng chi tiết B01 / B02 / B03 / B09 (108 khoản mục) |
+| [07-Bang-tong-hop.csv](./07-Bang-tong-hop.csv) | File CSV đầy đủ – mở bằng Excel/Google Sheets |
 
 ## Căn cứ pháp lý chính
 
